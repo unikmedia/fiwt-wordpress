@@ -12,7 +12,7 @@ Go to [https://dev.twitter.com/apps](https://dev.twitter.com/apps) and create a 
 
 You must provide for this plugin the **OAuth settings**, *Consumer key* and *Consumer secret*, from the new application.
 
-You have to create <strong>Your access token</strong> in the bottom of the page and write the <em>Access token</em> and the <em>Access token secret</em> in the plugin settings.
+You have to create <strong>your access token</strong> in the bottom of the page and write the <em>access token</em> and the <em>access token secret</em> in the plugin settings.
 
 
 ##Set the frontend emplacement
@@ -40,4 +40,4 @@ There's an exemple
         <article>{{tweet text}}</article>
     </li>
     
-The data in the template are from the tweet object who was returned. If you want to check all attributes check [this pastebin](http://pastebin.com/FgLU1N66)
+The data in the template is the tweet object returned. If you want to check the whole object [this pastebin](http://pastebin.com/FgLU1N66)
