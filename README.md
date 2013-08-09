@@ -1,6 +1,8 @@
 #Fill It With Tweets
 
-**FIWT** - Plugins to easily get a twitter feed on your **wordpress** website
+**FIWT** - Plugin to easily get a twitter feed on your **wordpress** website
+
+Take all the repository in a folder and upload it on your plugin directory.
 
 ***
 
