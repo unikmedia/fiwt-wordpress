@@ -2,8 +2,6 @@
 
 **FIWT** - Plugin to easily get a twitter feed on your **wordpress** website
 
-Take all the repository in a folder and upload it on your plugin directory.
-
 ***
 
 *All these settings are in the wordpress admin panel*
